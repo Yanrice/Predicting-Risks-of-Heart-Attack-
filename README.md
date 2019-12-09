@@ -37,8 +37,8 @@ Rows: 70,000
 2. **Height** | Objective Feature | height | `int` (cm) 
 3. **Weight** | Objective Feature | weight | `float` (kg) 
 4. **Gender** | Objective Feature | gender | `categorical` code 
-5. **Systolic blood pressure** | Examination Feature | `ap_hi` | int 
-6. **Diastolic blood pressure** | Examination Feature | `ap_lo` | int 
+5. **Systolic blood pressure** | Examination Feature | ap_hi | `int`
+6. **Diastolic blood pressure** | Examination Feature | ap_lo | `int` 
 7. **Cholesterol** | Examination Feature | cholesterol | 1: normal, 2: above normal, 3: well above normal 
 8. **Glucose** | Examination Feature | gluc | 1: normal, 2: above normal, 3: well above normal 
 9. **Smoking** | Subjective Feature | smoke | binary 
