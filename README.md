@@ -1,6 +1,6 @@
 # Predicting Risks of Heart Attack 
 
-!(Images/https://thumbs.dreamstime.com/z/heart-attack-symptoms-signs-human-silhouette-highlighted-internal-organs-warning-sign-65976842.jpg
+!(Images/https://thumbs.dreamstime.com/z/heart-attack-symptoms-signs-human-silhouette-highlighted-internal-organs-warning-sign-65976842.jpg)
 
 ### Team Members: 
 * Yannick Kalukuta	[yanowen](https://github.com/Yanrice)
