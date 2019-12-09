@@ -1,6 +1,6 @@
 # Predicting Risks of Heart Attack 
 
-!(Images/https://thumbs.dreamstime.com/z/heart-attack-symptoms-signs-human-silhouette-highlighted-internal-organs-warning-sign-65976842.jpg)
+!(Images/heart attack warning signs.jpg)
 
 ### Team Members: 
 * Yannick Kalukuta	[yanowen](https://github.com/Yanrice)
@@ -17,7 +17,7 @@ Looking specifically at:
 1. Does **alcohol** consumption lead to greater risk of heart attack?
 2. Does **smoking** lead to greater risk of heart attack?
 3. Does being **physically active** negate certain other factors that increase risk of heart attack?
-4. Is one gender more prone to heart attack then the other?
+4. Is one **gender** more prone to heart attack then the other?
 
 ## Methodology:
 We will use presence or absence of **cardiovascular diseases** as the target variable. Other parameters will be independent variables. Using different machine learning algorithms learned in class such as **XGBOOST**, **Random Forest**, and **Logistic Regression**, we will develop a model that can predict the **propensity of the heart attack** in a person based on the biological and lifestyle preferential data input.
