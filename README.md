@@ -1,13 +1,13 @@
 # Predicting Risks of Heart Attack 
 
-! [heart attack warning signs](Images/heart_attack_warning_signs.jpg)
+![heart attack warning signs](Images/heart_attack_warning_signs.jpg)
 
 ### Team Members: 
 * Yannick Kalukuta	[yanowen](https://github.com/Yanrice)
 * Vijay Bagavatula	[vijayb023](https://github.com/Vijayb023)
 * Vin Dixit	                 [vinayakdixit](https://github.com/vinayakdixit)
-* Dinesh Lamba	drlamba502
-* Adil Sarwar	asarwar1
+* Dinesh Lamba          **drlamba502**
+* Adil Sarwar             **asarwar1**
 * Kendall Gouldthorpe  [kgouldthorpe](https://github.com/kgouldthorpe)
 
 ## Project Objective: 
