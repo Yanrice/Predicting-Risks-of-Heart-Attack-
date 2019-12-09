@@ -24,10 +24,10 @@ We will use presence or absence of **cardiovascular diseases** as the target var
 We will use the data processing and handling protocols required to run **ML algorithm** successfully. The quality of the outcome will then be tested using **confusion matrix**. The best performing model will then be used as backend estimator connected to front end input mechanism via `html`. Other useful information, along with **propensity of heart attack**, will be provided to the user to help them understand where do they stand with population group with and without **heart attack**.
 
 
-## Hypothesis: 
-Given certain lifestyle choices, blood indices, and body indicators, we can predict the propensity of heart attack.
-Null:
-There is no correlation between lifestyle choice, blood indices, and body indicators to predict propensity of heart attack.
+### Hypothesis: 
+* Given certain lifestyle choices, blood indices, and body indicators, we can predict the propensity of heart attack.
+### Null:
+* There is no correlation between lifestyle choice, blood indices, and body indicators to predict propensity of heart attack.
 #### Datasets to be Used:  Cardiovascular Disease Dataset
 [Kaggle:sulianova/cardiovascular-disease-dataset](https://www.kaggle.com/sulianova/cardiovascular-disease-dataset)
 #### File Type: `.csv`
@@ -42,7 +42,7 @@ Rows: 70,000
 7. **Cholesterol** | Examination Feature | cholesterol | 1: normal, 2: above normal, 3: well above normal 
 8. **Glucose** | Examination Feature | gluc | 1: normal, 2: above normal, 3: well above normal 
 9. **Smoking** | Subjective Feature | smoke | binary 
-10. **Alcohol intake** | Subjective Feature | `alco` | binary 
+10. **Alcohol intake** | Subjective Feature | alco | `binary` 
 11. **Physical activity** | Subjective Feature | active | binary 
 12. **Presence or absence of cardiovascular disease** | Target Variable | cardio | binary 
 
