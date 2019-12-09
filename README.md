@@ -28,10 +28,10 @@ We will use the data processing and handling protocols required to run **ML algo
 Given certain lifestyle choices, blood indices, and body indicators, we can predict the propensity of heart attack.
 Null:
 There is no correlation between lifestyle choice, blood indices, and body indicators to predict propensity of heart attack.
-Datasets to be Used: 
-Cardiovascular Disease Dataset
+#### Datasets to be Used: 
+**Cardiovascular Disease Dataset**
 [Kaggle:sulianova/cardiovascular-disease-dataset](https://www.kaggle.com/sulianova/cardiovascular-disease-dataset)
-File Type: '.csv'
+#### File Type: '.csv'
 Rows: 70,000
 ###Data includes:
 1. **Age** | Objective Feature | age | int (days)
