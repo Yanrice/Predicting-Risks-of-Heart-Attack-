@@ -1,4 +1,4 @@
-# Predicting Risks of Heart Attack 
+# Predicting Risks of Heart Attack using (Machine Learning)
 
 ![](Images/heart%20attack%20warning%20signs.jpg)
 
