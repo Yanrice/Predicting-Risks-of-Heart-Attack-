@@ -1,6 +1,6 @@
 # Predicting Risks of Heart Attack 
 
-![Heart Attack Warning Signs](Images/heart_attack_warning_signs.jpg)
+![](Images/heart%20attack%20warning%20signs.jpg)
 
 ### Team Members: 
 * Yannick Kalukuta	[yanowen](https://github.com/Yanrice)
@@ -31,8 +31,8 @@ We will use the data processing and handling protocols required to run **ML algo
 #### Datasets to be Used:  Cardiovascular Disease Dataset
 [Kaggle:sulianova/cardiovascular-disease-dataset](https://www.kaggle.com/sulianova/cardiovascular-disease-dataset)
 #### File Type: `.csv`
-Rows: 70,000
-###Data includes:
+Rows: `70,000`
+### Data includes:
 1. **Age** | Objective Feature | age | `int` (days)
 2. **Height** | Objective Feature | height | `int` (cm) 
 3. **Weight** | Objective Feature | weight | `float` (kg) 
