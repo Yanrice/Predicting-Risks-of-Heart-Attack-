@@ -1,6 +1,6 @@
 # Predicting Risks of Heart Attack 
 
-![](Images/Images/heart%20attack%20warning%20signs.jpg)
+![](Images/heart%20attack%20warning%20signs.jpg)
 
 ### Team Members: 
 * Yannick Kalukuta	[yanowen](https://github.com/Yanrice)
