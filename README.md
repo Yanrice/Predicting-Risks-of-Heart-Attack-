@@ -46,5 +46,3 @@ Rows: `70,000`
 11. **Physical activity** | Subjective Feature | active | binary 
 12. **Presence or absence of cardiovascular disease** | Target Variable | cardio | binary 
 
-
-
